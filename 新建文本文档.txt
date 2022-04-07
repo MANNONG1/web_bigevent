@@ -1,0 +1,4 @@
+http://ajax.frontend.itheima.net
+/api不需要访问权限
+/my请携带authorization
+/api/reguser
