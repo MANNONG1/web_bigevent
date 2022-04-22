@@ -56,7 +56,7 @@ $(function(){
                 if(res.status !== 0){
                     return layer.msg(res.message)
                 }
-                layer.msg('注册成功！')
+                layer.msg('登入成功！')
                 // 将登入成功得到的 token 字符串，保存到localStorage中
                 LocalStorage.setItem('token',res.token)
                 // 跳转后台主页

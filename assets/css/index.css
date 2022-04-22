@@ -23,5 +23,29 @@ iframe{
 .userinfo{
     height: 60px;
     line-height: 60px;
-    text-align: center:
+    text-align: center;
+    font-size: 12px;
+    user-select: none;
+
+}
+.layui-side-scroll .userinfo {
+    border-bottom: 1px solid #282b28;
+}
+.layui-nav-img {
+    height: 40px;
+    width: 40px;
+}
+.text-avater {
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    background-color: aqua;
+    border-radius: 50%;
+    font-size: 20px;
+    line-height: 40px;
+    text-align: center;
+    color: aliceblue;
+    position: relative;
+    top: 4px;
+    margin-right: 10px;
 }

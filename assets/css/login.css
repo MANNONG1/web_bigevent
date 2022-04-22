@@ -4,7 +4,7 @@ body{
     padding: 0;
     height: 100%;
     width: 100%;
-    background: url('/assets/images/03745c055deaca200000159957f4ac9.jpg')
+    background: url('../images/096eeb9cd3c84bd8ba09b5713679b4f9.jpeg')
     no-repeat center;
     background-size: cover;
 
@@ -25,7 +25,7 @@ body{
 }
 .title-box{
     height: 60px;
-    background: url('/assets/images/3347542_152341461000_2.jpg') no-repeat center;
+    background: url('../images/3347542_152341461000_2.jpg') no-repeat center;
 }
 .reg-box{
     display: none;
